@@ -1,0 +1,13 @@
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/ProjetManager.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/controller/ProjetController.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/dao/ConnexionBDD.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/dao/ProjetDAO.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/dao/TacheDAO.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/dao/UtilisateurDAO.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/model/Projet.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/model/Tache.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/model/Utilisateur.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/view/MainFrame.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/view/ProjetPanel.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/view/TachePanel.java
+/home/fsociety/Desktop/java project/ProjetManager/src/main/java/view/UtilisateurPanel.java
