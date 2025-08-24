@@ -1,5 +1,3 @@
-package com.mycompany.projetmanager;
-
 import dao.ConnexionBDD;
 import dao.UtilisateurDAO;
 import model.Utilisateur;
