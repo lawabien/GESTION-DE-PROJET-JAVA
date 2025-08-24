@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <exec.mainClass>com.mycompany.projetmanager.ProjetManager</exec.mainClass>
+        <exec.mainClass>ProjetManager</exec.mainClass>
     </properties>
 
     <dependencies>
@@ -51,7 +51,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>com.mycompany.projetmanager.ProjetManager</mainClass>
+                            <mainClass>ProjetManager</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
@@ -82,7 +82,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>com.mycompany.projetmanager.ProjetManager</mainClass>
+                    <mainClass>ProjetManager</mainClass>
                 </configuration>
             </plugin>
         </plugins>
